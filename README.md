@@ -1,5 +1,5 @@
 #  About Me:
-Hi, I’m Aditya Gautam , a 1st-year B.Tech CSE student passionate about problem-solving, web development, and learning how real-world tech works. Currently exploring DSA using C++ and building my first web apps using HTML, CSS, and JavaScript.<br><br>I believe in learning in public, sharing progress, and contributing to open source in the future. Looking to connect with peers, mentors, and developers who love building cool things.<br><br Interests: Competitive Programming, Web Dev, Dev Tools, Hackathons <br> Goal: Become a skilled Full Stack Developer by 3rd year <br> Let’s connect!
+Hi, I’m Aditya Gautam , a 1st-year B.Tech CSE student passionate about problem-solving, web development, and learning how real-world tech works. Currently exploring DSA using C++ and building my first web apps using HTML, CSS, and JavaScript.<br><br>I believe in learning in public, sharing progress, and contributing to open source in the future. Looking to connect with peers, mentors, and developers who love building cool things.<br><br> Interests: Competitive Programming, Web Dev, Dev Tools, Hackathons <br> Goal: Become a skilled Full Stack Developer by 3rd year <br> Let’s connect!
 
 
 ## 🌐 Socials:
